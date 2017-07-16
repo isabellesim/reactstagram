@@ -1,0 +1,20 @@
+{
+  "name": "reactstagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64-img": "^1.0.3",
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "guid": "0.0.12",
+    "mongojs": "^2.4.0",
+    "react-router-dom": "^4.1.1"
+  }
+}
